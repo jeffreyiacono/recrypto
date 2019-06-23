@@ -1,0 +1,10 @@
+environment
+.idea/*
+*.pyc
+.idea/
+vrecrypto/
+Gemfile.lock
+__pycache__/
+**/.DS_Store
+accounts/*
+!accounts/template.yaml

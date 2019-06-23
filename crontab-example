@@ -1,0 +1,11 @@
+# * * * * * command to be executed
+# - - - - -
+# | | | | |
+# | | | | +----- day of week (0 - 6) (Sunday=0)
+# | | | +------- month (1 - 12)
+# | | +--------- day of month (1 - 31)
+# | +----------- hour (0 - 23)
+# +------------- min (0 - 59)
+#
+# Example: Using the details in accounts/your-template.yaml, buy BTC each day at 14:00 GMT.
+# 0 14 * * * cd /path/to/recrypto && source /path/to/recrypto/vrecrypto/bin/activate && /path/to/recrypto/vrecrypto/bin/python3 /path/to/recrypto/market_buyer.py --account=your-template --coin=btc

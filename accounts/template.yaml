@@ -1,0 +1,13 @@
+gdax:
+  passphrase: "passphrase"
+  key: "key"
+  secret: "secret" # note you may need to add "==" to the end to avoid binascii.Error: Incorrect padding with python 3.6
+  accounts:
+    usd_id: "account-usd-id"
+trading:
+  btc:
+    buy_amount_usd: 10.00
+  eth:
+    buy_amount_usd: 10.00
+  ltc:
+    buy_amount_usd: 10.00
