@@ -15,6 +15,8 @@ you (ie. the code found in this repo!). **Disclaimer:** This is not investment
 advice. Use this software at your own risk.
 
 Why may you want to do this?
+- You can build an investment in a crypto asset by dollar cost averaging into
+  it. I'll leave it up to you to assess if that is something you want to do!
 - You can save (a little) money in the long run: Coinbase appears to charge
   $0.99 / recurring buy, while running this script uses Coinbase Pro (formly
   GDAX) so you'll typically only pay fees of [0.05% to
@@ -98,13 +100,19 @@ You can use something like `cron` to do this, and there is an example file
 provided within the repo called `crontab-example`
 
 # Like This?
-Buy me a coffee! Send bitcoin to the following address:
-`1AYG93PW5zL7YLyGkevGvPGQHmxYpGnv6m`
+Buy me a coffee!
 
-Or scan the following QR code if you have a bitcoin wallet on your mobile
-device:
+Send **LTC** to the following address: `LMxcMA4Z9rRnVxJa5QfPxnWr9Moi9wGyKp`
+or scan the following QR code:
+![LMxcMA4Z9rRnVxJa5QfPxnWr9Moi9wGyKp](https://raw.githubusercontent.com/jeffreyiacono/images/master/recrypto/ltc-LMxcMA4Z9rRnVxJa5QfPxnWr9Moi9wGyKp.png)
 
-![1AYG93PW5zL7YLyGkevGvPGQHmxYpGnv6m](https://raw.githubusercontent.com/jeffreyiacono/penalty-blox/master/images/1AYG93PW5zL7YLyGkevGvPGQHmxYpGnv6m.png)
+Send **ETH** to the following address: `0x85e38a2F652f59b6e61620264eC08Bdd3f35dE42`
+or scan the following QR code:
+![0x85e38a2F652f59b6e61620264eC08Bdd3f35dE42](https://raw.githubusercontent.com/jeffreyiacono/images/master/recrypto/eth-0x85e38a2F652f59b6e61620264eC08Bdd3f35dE42.png)
+
+Send **BTC** to the following address: `1KrG49xxxtRVTnGkM2xwF6mf9JFnB3yMRA`
+or scan the following QR code:
+![1KrG49xxxtRVTnGkM2xwF6mf9JFnB3yMRA](https://raw.githubusercontent.com/jeffreyiacono/images/master/recrypto/btc-1KrG49xxxtRVTnGkM2xwF6mf9JFnB3yMRA.png)
 
 # MIT License
 Copyright (c) 2019 Jeff Iacono
